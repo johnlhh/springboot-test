@@ -1,0 +1,4 @@
+${application.version}123
+${application.formatted-version}223
+${spring-boot.version}2.0.0.M2
+${application.title}application
